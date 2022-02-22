@@ -1,13 +1,19 @@
-**Olá! Me chamo Pedro e sou estudante de Programação!**
 
+<div align="center">
+ 
+**Olá! Me chamo Pedro e sou estudante de Programação!**
+ 
+<div align="center">
 - 🔭 No momento não estou trabalhando, pois...
+ <div align="center">
 - 🌱 Estou parcipando do Bootcamp Java Fullstack da Generation Brasil.
+  <div align="center">
 - 😄 Pronome: ele/dele
 
  ##
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/pedrocadeoz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrocadeoz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocadeoz&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -15,7 +21,7 @@
   
 ##
   
-  
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Pedro-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -33,10 +39,9 @@
   
   
   ##
-  
-  
-   <img align="left" alt="Pedro-Naruto" src="https://media.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif">
-</div>
+   <div align="center">
+   <img align="center" alt="Pedro-Naruto" src="https://media.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif">
+
   
 ##
   
