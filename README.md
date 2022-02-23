@@ -6,6 +6,7 @@
 #
  
 <div align="left">
+ 
 - 🔭 No momento não estou trabalhando, pois...
 
 - 🌱 Estou parcipando do Bootcamp Java Fullstack da Generation Brasil.
