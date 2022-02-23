@@ -2,15 +2,16 @@
 <div align="center">
  
 **Olá! Me chamo Pedro e sou estudante de Programação!**
+#
+#
  
-<div align="center">
+<div align="left">
 - 🔭 No momento não estou trabalhando, pois...
- <div align="center">
+
 - 🌱 Estou parcipando do Bootcamp Java Fullstack da Generation Brasil.
-  <div align="center">
+
 - 😄 Pronome: ele/dele
 
- ##
 
 
 <div align="center">
