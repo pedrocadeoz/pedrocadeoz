@@ -51,3 +51,6 @@
    ![Snake animation](https://github.com/pedrocadeoz/pedrocadeoz/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ 
+ <a href="https://github.com/pedrocadeoz/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=pedrocadeoz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</body>
