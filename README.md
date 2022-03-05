@@ -1,17 +1,22 @@
 
 <div align="center">
  
-**Olá! Me chamo Pedro e sou estudante de Programação!**
+ 
+ <img align="right" alt="Pedro-Naruto" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif">
+ 
+**Oi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Meu nome é Pedro!**
+ 
+ 
 #
 #
  
 <div align="left">
+
+- 🖥 Participo do Bootcamp Java Fullstack da Generation Brasil.
+
+- 😄 Pronome: ele/dele.
  
-- 🔭 No momento não estou trabalhando, pois...
-
-- 🌱 Estou parcipando do Bootcamp Java Fullstack da Generation Brasil.
-
-- 😄 Pronome: ele/dele
+- ⌚ Tenho 24 anos de idade.
 
 
 
