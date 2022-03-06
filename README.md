@@ -4,7 +4,7 @@
  
  <img align="right" alt="Pedro-Naruto" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif">
  
-**Oi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Meu nome é Pedro!**
+**Oi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Eu sou o Pedro!**
  
  
 #
