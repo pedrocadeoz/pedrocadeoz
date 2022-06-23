@@ -4,7 +4,7 @@
  
  <img align="right" alt="Pedro-Naruto" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif">
  
-**Oi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Eu sou o Pedro!**
+**Oi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="80em"> Eu sou o Pedro!**
  
  
 #
@@ -12,11 +12,13 @@
  
 <div align="left">
 
-- 🖥 Participo do Bootcamp Java Fullstack da Generation Brasil.
+- 🖥 Desenvolvedor Back-end Jr.
 
 - 😄 Pronome: ele/dele.
  
 - ⌚ Tenho 24 anos de idade.
+ 
+- 📗 Estudo Análise e Desenvolvimento de Sistemas
 
 
 
@@ -53,7 +55,7 @@
   
   ##
    <div align="center">
-   <img align="center" alt="Pedro-Naruto" src="https://media.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif">
+   <img align="center" alt="Pedro-Naruto" src="https://media.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif" height="200em">
 
   
 ##
